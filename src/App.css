@@ -18,6 +18,11 @@
   max-width: 1080px;
 }
 
+h1 {
+  color: #EAEEE7;
+  
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);

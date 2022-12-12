@@ -7,6 +7,7 @@ const MyStyles = () => {
     backgroundColor: '#1F39F3',
     padding: '10px',
     fontFamily: 'Arial',
+    fontSize: '14px',
   }
 
   return (
@@ -14,8 +15,10 @@ const MyStyles = () => {
       style={myStyle}
       // className="component-one"
     >
+      <h1>
       I don't believe in "Love". It is nothing more than the lust between both
       genders
+      </h1>
     </div>
   )
 }
