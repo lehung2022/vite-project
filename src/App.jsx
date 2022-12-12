@@ -1,9 +1,7 @@
 import { useState } from 'react'
 import './App.css';
 import MyStyles from './components/MyStyles';
-// Imports
-
-// To Test
+// Imports to test
 import App from '../src/__tests__/App.test' 
 
 // Tests
