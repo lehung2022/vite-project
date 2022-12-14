@@ -8,6 +8,7 @@ const MyStyles = () => {
     padding: '10px',
     fontFamily: 'Arial',
     fontSize: '14px',
+    
   }
 
   return (
