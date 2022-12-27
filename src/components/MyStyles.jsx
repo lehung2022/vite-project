@@ -4,7 +4,7 @@ import '../App.css'
 const MyStyles = () => {
   const myStyle = {
     color: '#F0F3F4 ',
-    backgroundColor: '#1F39F3',
+    backgroundColor: '#F65504',
     padding: '10px',
     fontFamily: 'Arial',
     fontSize: '14px',
@@ -17,8 +17,7 @@ const MyStyles = () => {
       // className="component-one"
     >
       <h1>
-      I don't believe in "Love". It is nothing more than the lust between both
-      genders
+      I am more familiar with React than Angular now. Angular is kind of slow
       </h1>
     </div>
   )

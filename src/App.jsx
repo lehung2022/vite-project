@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css';
-import MyStyles from './components/MyStyles';
+import Story from './components/Story';
 // Imports to test
 
 
@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <MyStyles />
+      <Story />
     </div>
   )
 }
